@@ -1,0 +1,29 @@
+.container{
+  /* margin: 30px; */
+}
+
+
+.appli {
+  height: calc(100vh - 80px);
+}
+
+#root{
+  margin: 0;
+  padding: 0;
+}
+
+.titre {
+  padding:20px 0px 20px 0px;
+}
+
+
+.zone-texte {
+  height: calc(90vh - 80px);
+  overflow: auto;
+}
+
+.aera {
+  resize: none;
+  min-width : 100px;
+  min-height : calc(90vh - 80px);
+  }
